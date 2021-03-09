@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">bnr7_with_butterknife</string>
+    <string name="crimeHint">Enter the crime title</string>
+    <string name="crime_title">Title</string>
+    <string name="crime_date">Date of Crime</string>
+    <string name="crime_time">Time of Crime</string>
+    <string name="crime_solved">Solved</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="time_picker_title">Time of crime:</string>
+    <string name="add_crime">add crime</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <string name="delete_crime">Delete crime</string>
+    <string name="empty_list_text">This list is Empty</string>
+    <string name="empty_suspect_title">Choose a suspect</string>
+    <string name="crime_report">%1$s! Crime was discovered on %2$s. %3$s and %4$s.</string>
+    <string name="crime_solved_report">The crime is solved</string>
+    <string name="crime_unsolved_report">The crime is not solved</string>
+    <string name="crime_suspect_not__found_report">The suspect is not found</string>
+    <string name="crime_suspect_found_report">The suspect is %s</string>
+    <string name="send_report_via">Send report via</string>
+    <string name="send_report_title">Send a report</string>
+    <string name="photo_details_title">Detailed Photo</string>
+    <plurals name="crime_format">
+        <item quantity="one">%1$d crime</item>
+        <item quantity="other">%1$d crimes</item>
+    </plurals>
+</resources>

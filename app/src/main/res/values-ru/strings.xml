@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crimeHint">Введите название преступления</string>
+    <string name="crime_title">Название</string>
+    <string name="crime_date">Дата преступления</string>
+    <string name="crime_time">Время преступления</string>
+    <string name="crime_solved">Решено</string>
+    <string name="date_picker_title">Дата преступления:</string>
+    <string name="time_picker_title">Время преступления:</string>
+    <string name="add_crime">добавить преступление</string>
+    <string name="show_subtitle">Окрыть подзаголовок</string>
+    <string name="hide_subtitle">Скрыть подзаголовок</string>
+    <string name="delete_crime">Удалить престпуление</string>
+    <string name="empty_list_text">Этот лист пуст</string>
+    <string name="empty_suspect_title">Выбарть виновного</string>
+    <string name="crime_report">%1$s! Преступление совершено %2$s. %3$s и %4$s.</string>
+    <string name="crime_solved_report">конфликт исчерпан</string>
+    <string name="crime_unsolved_report">конфликт не исчерпан</string>
+    <string name="crime_suspect_not__found_report">виновный не найден</string>
+    <string name="crime_suspect_found_report">виновный: %s</string>
+    <string name="send_report_via">Отослать с помощью</string>
+    <string name="send_report_title">Отослать отчет</string>
+    <string name="photo_details_title">Подробнее</string>
+    <plurals name="crime_format">
+        <item quantity="one">%1$d преступление</item>
+        <item quantity="other">%1$d престпления</item>
+    </plurals>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detail_master" type="layout">@layout/activity_fragment_twopane</item>
+</resources>
